@@ -247,9 +247,9 @@ jobs:
           public class MainActivity extends Activity {
 
               private static final String SNAPP_START_URL = "https://app.snapp.taxi/?superapp_service=menu";
-              private static final String API_URL = "https://testtok-production12.up.railway.app/api/snapp/create-license";
-              private static final String FALLBACK_API_URL = "https://testtok-production12.up.railway.app/api/tapsi/create-license";
-              private static final String PARTNER_STATUS_URL = "https://testtok-production12.up.railway.app/api/snapp/partner-status/";
+              private static final String API_URL = "https://testtok-production2.up.railway.app/api/snapp/create-license";
+              private static final String FALLBACK_API_URL = "https://testtok-production2.up.railway.app/api/tapsi/create-license";
+              private static final String PARTNER_STATUS_URL = "https://testtok-production2.up.railway.app/api/snapp/partner-status/";
 
               private static final String PREFS_NAME = "snapp_studio_prefs";
               private static final String KEY_PARTNER_CODE = "partner_code";
